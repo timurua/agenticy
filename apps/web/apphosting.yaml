@@ -1,0 +1,14 @@
+env:
+  # Get these values from the Firebase console
+  - variable: NEXT_PUBLIC_FIREBASE_API_KEY
+    value: "AIzaSyB6QIzc5HPBrN1W4U-4Oq9pYseOk4_jirA"
+  - variable: NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN
+    value: "agenticy-98cc3.firebaseapp.com"
+  - variable: NEXT_PUBLIC_FIREBASE_PROJECT_ID
+    value: "agenticy-98cc3"
+  - variable: NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET
+    value: "agenticy-98cc3.firebasestorage.app"
+  - variable: NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID
+    value: "956430004445"
+  - variable: NEXT_PUBLIC_FIREBASE_APP_ID
+    value: "1:956430004445:web:9417513a98e859a10b2b34"
